@@ -14,11 +14,9 @@
 ### Крок 1: Клонування репозиторію
 
 ```bash
-git clone [https://github.com/your-username/goit-cs-hw-04.git](https://github.com/your-username/goit-cs-hw-04.git)
+git clone [https://github.com/mikk1max/goit-cs-hw-04.git](https://github.com/mikk1max/goit-cs-hw-04.git)
 cd goit-cs-hw-04
 ```
-
-(Замініть your-username на ваш логін GitHub)
 
 ### Крок 2: Запуск програми
 
